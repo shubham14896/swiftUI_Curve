@@ -1,2 +1,1 @@
-# swiftUI_Curve
-Draw curve in swift UI using path &amp; rect
+# Draw curve in SwiftUI using path &amp; rectangle
